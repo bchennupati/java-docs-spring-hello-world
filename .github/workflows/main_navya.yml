@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Navya'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EFDEBFD10CA2452895E529368B03173D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F0B5FF14EF054F51B24FA60EA12BD512 }}
           package: '*.war'
